@@ -1,71 +1,85 @@
-# Hemanth's Portfolio
+# Hemanth Datta Srivatsav – Portfolio
 
-This is my personal portfolio website showcasing my skills, projects, and contact details. It is built using **HTML, CSS, and JavaScript** with a clean and responsive design.
+Welcome to my personal portfolio website!
+This project showcases my skills, projects, and experience as an aspiring **Software Developer and Data Analyst**.
 
-## Live Website
+## Live Demo
 
-👉 https://your-username.github.io/
+👉 https://hemanthdatta45.github.io/My-Portfolio/
 
-## 👨‍💻 About Me
+---
 
-I am an aspiring **Software Developer and Data Analyst** with strong skills in Python, SQL, and web development. I am passionate about building real-world applications and exploring AI and data-driven solutions.
+## About Me
 
-## 🛠️ Technologies Used
+I am an aspiring Software Developer with a strong interest in **data analysis, artificial intelligence, and full-stack web development**.
 
-* HTML5
-* CSS3
-* JavaScript
-* Git & GitHub
+I enjoy building real-world applications and solving problems using technology. My goal is to continuously improve my skills and contribute to impactful projects.
 
-## 📌 Features
+---
 
-* Smooth scrolling navigation
-* Clean and modern UI
-* Skills section with highlighted technologies
-* Project showcase cards
-* Responsive layout for better user experience
+## Tech Stack
 
-## 📂 Project Structure
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Data & Tools:** Python, SQL, Power BI, Tableau
+* **Other:** Git, GitHub
 
+---
+
+## Key Features
+
+* Clean and modern user interface
+* Responsive design for multiple devices
+* Smooth navigation across sections
+* Structured project showcase
+* Easy-to-read layout for recruiters
+
+---
+
+## Project Structure
+
+```
 portfolio/
 ├── index.html
 ├── styles.css
 ├── script.js
+```
 
-## 💼 Projects Included
+---
+
+## Featured Projects
 
 ### 🔹 Real-Time Image Segmentation
 
-* Built using YOLOv8 and OpenCV
-* Performs object detection with real-time tracking
+* Built using **YOLOv8 and OpenCV**
+* Performs real-time object detection and tracking
+* Focused on computer vision applications
 
 ### 🔹 AI Chatbot
 
-* Developed using JavaScript and Gemini API
+* Developed using **JavaScript and Gemini API**
 * Provides real-time conversational responses
+* Demonstrates integration of AI APIs
 
 ### 🔹 E-Commerce Data Analysis
 
-* Data analysis using Python
-* Dashboard creation using Power BI
+* Performed data analysis using **Python**
+* Created dashboards using **Power BI**
+* Extracted insights for business decision-making
 
-## ⚙️ How to Run Locally
+---
 
-1. Download or clone the repository
-2. Open `index.html` in your browser
-
-## 📬 Contact
+## Contact
 
 * 📧 Email: [hemanthdatta45@gmail.com](mailto:hemanthdatta45@gmail.com)
 * 📱 Phone: +91 6302091435
 
-## ⭐ Future Improvements
+---
 
-* Add animations and transitions
-* Improve mobile responsiveness
-* Add project links and GitHub repos
-* Integrate contact form functionality
+## Let’s Connect
+
+I am actively looking for opportunities in **Software Development and Data Analytics**.
+Feel free to reach out for collaboration or opportunities!
 
 ---
 
-✨ This portfolio represents my journey and continuous learning in software development and data analytics.
+⭐ If you like this project, consider giving it a star!
